@@ -1,4 +1,4 @@
-# Pegasus-Spyware-Information-Security-
+# Pegasus Spyware Detection Using Machine Learning
 ### Multi-Model Analysis with Feature Engineering and Ensemble Methods
 
 ---
